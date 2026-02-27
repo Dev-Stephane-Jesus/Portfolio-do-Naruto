@@ -51,7 +51,7 @@ header{
 
 nav a{
   font-size: 1.8rem;  
-  color: white;
+  color: rgb(180, 72, 72);
   margin-left: 4rem;
   font-weight: 500;
   transition: 0.3 ease;
